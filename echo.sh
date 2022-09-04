@@ -1,1 +1,2 @@
 echo "helloworld"
+echo $A
